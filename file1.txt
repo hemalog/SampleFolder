@@ -3,4 +3,3 @@ This is 2nd line in file - 1
 line 3 changes commit
 line 4 staged
 
-line new changes
