@@ -6,5 +6,5 @@ line 4 staged
 
 line 4 mine 
 line 2 mine
-line 3 updated in repo
+line 3 mine
 line from remote repo
